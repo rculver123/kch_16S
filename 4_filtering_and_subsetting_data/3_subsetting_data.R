@@ -11,7 +11,7 @@ ps.study<-subset_samples(ps, Project %in% 'MouseExp1') %>%
 filter_taxa(., function(x) sum(x) >0, TRUE) # Get rid of taxa that are now 0
 
 # Subset by colmn named Project but you want multiple projects
-ps.study<-subset_samples(ps, Project %in% c('MouseExp1','Cultures','Ari563','Ari564')) %>%
+ps.study<-subset_samples(ps, Project %in% c('MouseExp1','Cultures')) %>%
 filter_taxa(., function(x) sum(x) >0, TRUE) # Get rid of taxa that are now 0
 
 # Using 'OR' operator
