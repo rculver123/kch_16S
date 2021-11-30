@@ -1,2 +1,2 @@
 # kch_16S
-KC HUang lab 16S analysis
+KC Huang lab 16S analysis
