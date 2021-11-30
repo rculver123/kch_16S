@@ -1,0 +1,23 @@
+
+############################################
+# Step 1: Take all your analyzed data off of Sherlock
+############################################
+
+### IN YOUR LOCAL TERMINAL
+
+# For this, you will need a local folder to store your data.
+# In this example, I'll navigate in my terminal to a folder I've called 16S_analysis
+
+local_dir = '16S_analysis'
+
+# For sherlock, type pwd then press enter to figure out your path/to/data 
+
+#You will need the following files from Sherlock:
+# seqtab.nochim.RDS
+# taxa.rds
+# phy_tree.tree
+
+# Download data
+scp rculver@sherlock.stanford.edu:/path/to/data/seqtab.nochim.RDS $local_dir
+scp rculver@sherlock.stanford.edu:/path/to/data/taxa.rds $local_dir
+scp rculver@sherlock.stanford.edu:/path/to/data/phy_tree.tree $local_dir

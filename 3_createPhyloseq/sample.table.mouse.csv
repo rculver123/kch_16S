@@ -1,0 +1,268 @@
+,Number,Plate,Well,Column,Project,SampleType,Mouse,Date,Day,Isolator,Isolator_2,Community,MouseType,Observations,Quantity.Added,X16S_Set,DNA.Extraction.Kit,SeqName,Location,finalDaySamples
+S1,1,1,A,1,MouseExp1,Stool,1L,7.22,1,115,NA,Small Intestine,SW1,,NA,1,Power Bead,S1,Stool,0
+S100,100,2,A,4,MouseExp1,Stool,B,7.28,7,115,NA,Small Intestine,SW1,,NA,2,Power Bead,S100,Stool,0
+S101,101,2,A,5,MouseExp1,Stool,1L,7.28,7,115,NA,Small Intestine,SW1,,NA,2,Power Bead,S101,Stool,0
+S102,102,2,A,6,MouseExp1,Stool,1L,7.28,7,115,NA,Small Intestine,B6,,NA,2,Power Bead,S102,Stool,0
+S103,103,2,A,7,MouseExp1,Stool,1R,7.28,7,115,NA,Small Intestine,SW2,,NA,2,Power Bead,S103,Stool,0
+S104,104,2,A,8,MouseExp1,Stool,1L,7.28,7,121,NA,Stool,B6,,NA,2,Power Bead,S104,Stool,0
+S105,105,2,A,9,MouseExp1,Stool,1L,7.28,7,121,NA,Stool,SW1,,NA,2,Power Bead,S105,Stool,0
+S106,106,2,A,10,MouseExp1,Stool,2L,7.28,7,121,NA,Stool,SW2,,NA,2,Power Bead,S106,Stool,0
+S107,107,2,A,11,MouseExp1,Stool,B,7.28,7,121,NA,Stool,SW1,,NA,2,Power Bead,S107,Stool,0
+S108,108,2,A,12,MouseExp1,Stool,R,7.28,7,121,NA,Stool,B6,,NA,2,Power Bead,S108,Stool,0
+S109,109,2,B,1,MouseExp1,Stool,B,7.28,7,115,NA,Small Intestine,SW2,,NA,2,Power Bead,S109,Stool,0
+S110,110,2,B,2,MouseExp1,Stool,1R,7.28,7,115,NA,Small Intestine,B6,,NA,2,Power Bead,S110,Stool,0
+S111,111,2,B,3,MouseExp1,Stool,1L,7.28,7,115,NA,Small Intestine,SW2,,NA,2,Power Bead,S111,Stool,0
+S112,112,2,B,4,MouseExp1,Stool,1R,7.28,7,115,NA,Small Intestine,SW1,,NA,2,Power Bead,S112,Stool,0
+S113,113,2,B,5,MouseExp1,Stool,1R,7.28,7,121,NA,Stool,SW2,,NA,2,Power Bead,S113,Stool,0
+S114,114,2,B,6,MouseExp1,Stool,1L,7.28,7,121,NA,Stool,SW2,,NA,2,Power Bead,S114,Stool,0
+S115,115,2,B,7,MouseExp1,Stool,2R,7.28,7,121,NA,Stool,SW1,,NA,2,Power Bead,S115,Stool,0
+S116,116,2,B,8,MouseExp1,Stool,B,7.28,7,121,NA,Stool,SW2,,NA,2,Power Bead,S116,Stool,0
+S117,117,2,B,9,MouseExp1,Stool,1R,7.28,7,121,NA,Stool,SW1,,NA,2,Power Bead,S117,Stool,0
+S118,118,2,B,10,MouseExp1,Stool,1L,9.8,49,121,126,Stool2SI,B6,,NA,2,Power Bead,S118,Stool,1
+S119,119,2,B,11,MouseExp1,Stool,B,9.8,49,121,126,Stool2SI,SW1,,NA,2,Power Bead,S119,Stool,1
+S120,120,2,B,12,MouseExp1,Stool,1L,9.8,49,121,126,Stool2SI,SW1,,NA,2,Power Bead,S120,Stool,1
+S121,121,2,C,1,MouseExp1,Stool,1R,9.8,49,121,126,Stool2SI,SW1,,NA,2,Power Bead,S121,Stool,1
+S122,122,2,C,2,MouseExp1,Stool,2R,9.8,49,121,126,Stool2SI,SW1,,NA,2,Power Bead,S122,Stool,1
+S123,123,2,C,3,MouseExp1,Stool,1L,9.8,49,115,126,SI2Stool,B6,,NA,2,Power Bead,S123,Stool,1
+S124,124,2,C,4,MouseExp1,Stool,B,9.8,49,115,126,SI2Stool,SW1,,NA,2,Power Bead,S124,Stool,1
+S125,125,2,C,5,MouseExp1,Stool,1L,9.8,49,115,126,SI2Stool,SW1,,NA,2,Power Bead,S125,Stool,1
+S126,126,2,C,6,MouseExp1,Stool,1R,9.8,49,115,126,SI2Stool,SW1,,NA,2,Power Bead,S126,Stool,1
+S127,127,2,C,7,MouseExp1,Stool,2R,9.8,49,115,126,SI2Stool,SW1,,NA,2,Power Bead,S127,Stool,1
+S128,128,2,C,8,MouseExp1,Cecum,1L,9.8,49,121,126,Stool2SI,B6,,NA,2,Power Bead,S128,Cecum,1
+S129,129,2,C,9,MouseExp1,Cecum,B,9.8,49,121,126,Stool2SI,SW1,,NA,2,Power Bead,S129,Cecum,1
+S13,13,1,B,1,MouseExp1,Stool,1R,7.22,1,115,NA,Small Intestine,SW1,,NA,1,Power Bead,S13,Stool,0
+S130,130,2,C,10,MouseExp1,Cecum,1L,9.8,49,121,126,Stool2SI,SW1,,NA,2,Power Bead,S130,Cecum,1
+S131,131,2,C,11,MouseExp1,Cecum,1R,9.8,49,121,126,Stool2SI,SW1,Cross-contaminated/Empty,NA,2,Power Bead,S131,Cecum,1
+S132,132,2,C,12,MouseExp1,Cecum,2R,9.8,49,121,126,Stool2SI,SW1,Cross-contaminated/Empty,NA,2,Power Bead,S132,Cecum,1
+S133,133,2,D,1,MouseExp1,Cecum,1L,9.8,49,115,126,SI2Stool,B6,,NA,2,Power Bead,S133,Cecum,1
+S134,134,2,D,2,MouseExp1,Cecum,B,9.8,49,115,126,SI2Stool,SW1,,NA,2,Power Bead,S134,Cecum,1
+S135,135,2,D,3,MouseExp1,Cecum,1L,9.8,49,115,126,SI2Stool,SW1,,NA,2,Power Bead,S135,Cecum,1
+S136,136,2,D,4,MouseExp1,Cecum,1R,9.8,49,115,126,SI2Stool,SW1,,NA,2,Power Bead,S136,Cecum,1
+S137,137,2,D,5,MouseExp1,Cecum,2R,9.8,49,115,126,SI2Stool,SW1,,NA,2,Power Bead,S137,Cecum,1
+S138,138,2,D,6,MouseExp1,Stool,1L,9.3,44,121,126,Stool2SI,B6,,NA,2,Power Bead,S138,Stool,0
+S139,139,2,D,7,MouseExp1,Stool,B,9.3,44,121,126,Stool2SI,SW1,,NA,2,Power Bead,S139,Stool,0
+S14,14,1,B,2,MouseExp1,Stool,1R,7.22,1,115,NA,Small Intestine,SW2,,NA,1,Power Bead,S14,Stool,0
+S140,140,2,D,8,MouseExp1,Stool,1L,9.3,44,121,126,Stool2SI,SW1,,NA,2,Power Bead,S140,Stool,0
+S141,141,2,D,9,MouseExp1,Stool,1R,9.3,44,121,126,Stool2SI,SW1,,NA,2,Power Bead,S141,Stool,0
+S142,142,2,D,10,MouseExp1,Stool,2R,9.3,44,121,126,Stool2SI,SW1,,NA,2,Power Bead,S142,Stool,0
+S143,143,2,D,11,MouseExp1,Stool,1L,9.3,44,115,126,SI2Stool,B6,Cross-contaminated/Empty,NA,2,Power Bead,S143,Stool,0
+S145,145,2,E,1,MouseExp1,Stool,1L,9.3,44,115,126,SI2Stool,SW1,,NA,2,Power Bead,S145,Stool,0
+S146,146,2,E,2,MouseExp1,Stool,1R,9.3,44,115,126,SI2Stool,SW1,,NA,2,Power Bead,S146,Stool,0
+S147,147,2,E,3,MouseExp1,Stool,2R,9.3,44,115,126,SI2Stool,SW1,,NA,2,Power Bead,S147,Stool,0
+S148,148,2,E,4,MouseExp1,Stool,1L,8.26,36,121,126,Stool2SI,B6,,NA,2,Power Bead,S148,Stool,0
+S149,149,2,E,5,MouseExp1,Stool,B,8.26,36,121,126,Stool2SI,SW1,,NA,2,Power Bead,S149,Stool,0
+S15,15,1,B,3,MouseExp1,Stool,B,7.22,1,115,NA,Small Intestine,SW1,,NA,1,Power Bead,S15,Stool,0
+S150,150,2,E,6,MouseExp1,Stool,1L,8.26,36,121,126,Stool2SI,SW1,,NA,2,Power Bead,S150,Stool,0
+S151,151,2,E,7,MouseExp1,Stool,1R,8.26,36,121,126,Stool2SI,SW1,,NA,2,Power Bead,S151,Stool,0
+S152,152,2,E,8,MouseExp1,Stool,2R,8.26,36,121,126,Stool2SI,SW1,,NA,2,Power Bead,S152,Stool,0
+S153,153,2,E,9,MouseExp1,Stool,1L,8.26,36,115,126,SI2Stool,B6,,NA,2,Power Bead,S153,Stool,0
+S154,154,2,E,10,MouseExp1,Stool,B,8.26,36,115,126,SI2Stool,SW1,,NA,2,Power Bead,S154,Stool,0
+S155,155,2,E,11,MouseExp1,Stool,1L,8.26,36,115,126,SI2Stool,SW1,,NA,2,Power Bead,S155,Stool,0
+S156,156,2,E,12,MouseExp1,Stool,1R,8.26,36,115,126,SI2Stool,SW1,,NA,2,Power Bead,S156,Stool,0
+S157,157,2,F,1,MouseExp1,Stool,2R,8.26,36,115,126,SI2Stool,SW1,,NA,2,Power Bead,S157,Stool,0
+S158,158,2,F,2,MouseExp1,Stool,1L,8.27,37,121,126,Stool2SI,B6,,NA,2,Power Bead,S158,Stool,0
+S159,159,2,F,3,MouseExp1,Stool,B,8.27,37,121,126,Stool2SI,SW1,,NA,2,Power Bead,S159,Stool,0
+S16,16,1,B,4,MouseExp1,Stool,2L,7.22,1,121,NA,Stool,SW2,Runny,NA,1,Power Bead,S16,Stool,0
+S160,160,2,F,4,MouseExp1,Stool,1L,8.27,37,121,126,Stool2SI,SW1,,NA,2,Power Bead,S160,Stool,0
+S161,161,2,F,5,MouseExp1,Stool,1R,8.27,37,121,126,Stool2SI,SW1,,NA,2,Power Bead,S161,Stool,0
+S162,162,2,F,6,MouseExp1,Stool,2R,8.27,37,121,126,Stool2SI,SW1,,NA,2,Power Bead,S162,Stool,0
+S163,163,2,F,7,MouseExp1,Stool,1L,8.27,37,115,126,SI2Stool,B6,,NA,2,Power Bead,S163,Stool,0
+S165,165,2,F,9,MouseExp1,Stool,1L,8.27,37,115,126,SI2Stool,SW1,,NA,2,Power Bead,S165,Stool,0
+S166,166,2,F,10,MouseExp1,Stool,1R,8.27,37,115,126,SI2Stool,SW1,,NA,2,Power Bead,S166,Stool,0
+S167,167,2,F,11,MouseExp1,Stool,2R,8.27,37,115,126,SI2Stool,SW1,,NA,2,Power Bead,S167,Stool,0
+S168,168,2,F,12,MouseExp1,Stool,1L,8.25,35,121,126,Stool2SI,B6,,NA,2,Power Bead,S168,Stool,0
+S169,169,2,G,1,MouseExp1,Stool,B,8.25,35,121,126,Stool2SI,SW1,,NA,2,Power Bead,S169,Stool,0
+S17,17,1,B,5,MouseExp1,Stool,1L,7.22,1,121,NA,Stool,SW2,,NA,1,Power Bead,S17,Stool,0
+S170,170,2,G,2,MouseExp1,Stool,1L,8.25,35,121,126,Stool2SI,SW1,,NA,2,Power Bead,S170,Stool,0
+S171,171,2,G,3,MouseExp1,Stool,1R,8.25,35,121,126,Stool2SI,SW1,,NA,2,Power Bead,S171,Stool,0
+S172,172,2,G,4,MouseExp1,Stool,2R,8.25,35,121,126,Stool2SI,SW1,,NA,2,Power Bead,S172,Stool,0
+S173,173,2,G,5,MouseExp1,Stool,1L,8.25,35,115,126,SI2Stool,B6,,NA,2,Power Bead,S173,Stool,0
+S174,174,2,G,6,MouseExp1,Stool,B,8.25,35,115,126,SI2Stool,SW1,,NA,2,Power Bead,S174,Stool,0
+S175,175,2,G,7,MouseExp1,Stool,1L,8.25,35,115,126,SI2Stool,SW1,,NA,2,Power Bead,S175,Stool,0
+S176,176,2,G,8,MouseExp1,Stool,1R,8.25,35,115,126,SI2Stool,SW1,,NA,2,Power Bead,S176,Stool,0
+S177,177,2,G,9,MouseExp1,Stool,2R,8.25,35,115,126,SI2Stool,SW1,,NA,2,Power Bead,S177,Stool,0
+S178,178,2,G,10,MouseExp1,Stool,1L,8.24,34,121,126,Stool2SI,B6,,NA,2,Power Bead,S178,Stool,0
+S179,179,2,G,11,MouseExp1,Stool,B,8.24,34,121,126,Stool2SI,SW1,,NA,2,Power Bead,S179,Stool,0
+S18,18,1,B,6,MouseExp1,Stool,1L,7.22,1,121,NA,Stool,B6,,NA,1,Power Bead,S18,Stool,0
+S180,180,2,G,12,MouseExp1,Stool,1L,8.24,34,121,126,Stool2SI,SW1,,NA,2,Power Bead,S180,Stool,0
+S181,181,2,H,1,MouseExp1,Stool,1R,8.24,34,121,126,Stool2SI,SW1,,NA,2,Power Bead,S181,Stool,0
+S182,182,2,H,2,MouseExp1,Stool,2R,8.24,34,121,126,Stool2SI,SW1,,NA,2,Power Bead,S182,Stool,0
+S183,183,2,H,3,MouseExp1,Stool,1L,8.24,34,115,126,SI2Stool,B6,,NA,2,Power Bead,S183,Stool,0
+S184,184,2,H,4,MouseExp1,Stool,B,8.24,34,115,126,SI2Stool,SW1,,NA,2,Power Bead,S184,Stool,0
+S185,185,2,H,5,MouseExp1,Stool,1L,8.24,34,115,126,SI2Stool,SW1,,NA,2,Power Bead,S185,Stool,0
+S186,186,2,H,6,MouseExp1,Stool,1R,8.24,34,115,126,SI2Stool,SW1,,NA,2,Power Bead,S186,Stool,0
+S187,187,2,H,7,MouseExp1,Stool,2R,8.24,34,115,126,SI2Stool,SW1,,NA,2,Power Bead,S187,Stool,0
+S188,188,2,H,8,MouseExp1,Stool,1R,8.6,16,115,NA,Small Intestine,B6,,NA,2,Power Bead,S188,Stool,0
+S189,189,2,H,9,MouseExp1,Stool,1L,8.6,16,115,NA,Small Intestine,B6,,NA,2,Power Bead,S189,Stool,0
+S19,19,1,B,7,MouseExp1,Stool,B,7.22,1,121,NA,Stool,SW2,Runny,NA,1,Power Bead,S19,Stool,0
+S190,190,2,H,10,MouseExp1,Stool,1L,8.6,16,115,NA,Small Intestine,SW2,,NA,2,Power Bead,S190,Stool,0
+S191,191,2,H,11,MouseExp1,Stool,B,8.6,16,115,NA,Small Intestine,SW2,,NA,2,Power Bead,S191,Stool,0
+S192,192,2,H,12,MouseExp1,Stool,1R,8.6,16,115,NA,Small Intestine,SW2,,NA,2,Power Bead,S192,Stool,0
+S193,193,3,A,1,MouseExp1,Stool,2L,8.6,16,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S193,Stool,0
+S194,194,3,A,2,MouseExp1,Stool,B,8.6,16,115,NA,Small Intestine,SW1,,NA,3,Power Bead,S194,Stool,0
+S195,195,3,A,3,MouseExp1,Stool,1R,8.6,16,115,NA,Small Intestine,SW1,,NA,3,Power Bead,S195,Stool,0
+S196,196,3,A,4,MouseExp1,Stool,2R,8.6,16,115,NA,Small Intestine,SW1,,NA,3,Power Bead,S196,Stool,0
+S197,197,3,A,5,MouseExp1,Stool,1L,8.6,16,115,NA,Small Intestine,SW1,,NA,3,Power Bead,S197,Stool,0
+S198,198,3,A,6,MouseExp1,Stool,1L,8.6,16,121,NA,Stool,B6,,NA,3,Power Bead,S198,Stool,0
+S199,199,3,A,7,MouseExp1,Stool,1R,8.6,16,121,NA,Stool,B6,,NA,3,Power Bead,S199,Stool,0
+S2,2,1,A,2,MouseExp1,Stool,1L,7.22,1,115,NA,Small Intestine,SW2,,NA,1,Power Bead,S2,Stool,0
+S200,200,3,A,8,MouseExp1,Stool,B,8.6,16,121,NA,Stool,SW2,,NA,3,Power Bead,S200,Stool,0
+S201,201,3,A,9,MouseExp1,Stool,2L,8.6,16,121,NA,Stool,SW2,,NA,3,Power Bead,S201,Stool,0
+S202,202,3,A,10,MouseExp1,Stool,1L,8.6,16,121,NA,Stool,SW2,,NA,3,Power Bead,S202,Stool,0
+S203,203,3,A,11,MouseExp1,NA,,NA,NA,NA,NA,NA,,,NA,3,Power Bead,S203,NA,0
+S204,204,3,A,12,MouseExp1,Stool,1R,8.6,16,121,NA,Stool,SW1,,NA,3,Power Bead,S204,Stool,0
+S205,205,3,B,1,MouseExp1,Stool,1L,8.6,16,121,NA,Stool,SW1,,NA,3,Power Bead,S205,Stool,0
+S206,206,3,B,2,MouseExp1,Stool,B,8.6,16,121,NA,Stool,SW1,,NA,3,Power Bead,S206,Stool,0
+S208,208,3,B,4,MouseExp1,Stool,1R,8.9,19,115,NA,Small Intestine,B6,,NA,3,Power Bead,S208,Stool,0
+S209,209,3,B,5,MouseExp1,Stool,1L,8.9,19,115,NA,Small Intestine,B6,,NA,3,Power Bead,S209,Stool,0
+S210,210,3,B,6,MouseExp1,Stool,1L,8.9,19,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S210,Stool,0
+S211,211,3,B,7,MouseExp1,Stool,B,8.9,19,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S211,Stool,0
+S212,212,3,B,8,MouseExp1,Stool,1R,8.9,19,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S212,Stool,0
+S213,213,3,B,9,MouseExp1,Stool,2L,8.9,19,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S213,Stool,0
+S214,214,3,B,10,MouseExp1,Stool,B,8.9,19,115,NA,Small Intestine,SW1,feel into dry ice,NA,3,Power Bead,S214,Stool,0
+S215,215,3,B,11,MouseExp1,Stool,1R,8.9,19,115,NA,Small Intestine,SW1, ,NA,3,Power Bead,S215,Stool,0
+S216,216,3,B,12,MouseExp1,Stool,2R,8.9,19,115,NA,Small Intestine,SW1,,NA,3,Power Bead,S216,Stool,0
+S217,217,3,C,1,MouseExp1,Stool,1L,8.9,19,115,NA,Small Intestine,SW1,,NA,3,Power Bead,S217,Stool,0
+S218,218,3,C,2,MouseExp1,Stool,1L,8.9,19,121,NA,Stool,B6,,NA,3,Power Bead,S218,Stool,0
+S219,219,3,C,3,MouseExp1,Stool,1R,8.9,19,121,NA,Stool,B6,,NA,3,Power Bead,S219,Stool,0
+S220,220,3,C,4,MouseExp1,Stool,B,8.9,19,121,NA,Stool,SW2,,NA,3,Power Bead,S220,Stool,0
+S221,221,3,C,5,MouseExp1,Stool,2L,8.9,19,121,NA,Stool,SW2,,NA,3,Power Bead,S221,Stool,0
+S222,222,3,C,6,MouseExp1,Stool,1L,8.9,19,121,NA,Stool,SW2,,NA,3,Power Bead,S222,Stool,0
+S223,223,3,C,7,MouseExp1,Stool,1R,8.9,19,121,NA,Stool,SW2,,NA,3,Power Bead,S223,Stool,0
+S224,224,3,C,8,MouseExp1,Stool,1R,8.9,19,121,NA,Stool,SW1,,NA,3,Power Bead,S224,Stool,0
+S225,225,3,C,9,MouseExp1,Stool,1L,8.9,19,121,NA,Stool,SW1,,NA,3,Power Bead,S225,Stool,0
+S226,226,3,C,10,MouseExp1,Stool,B,8.9,19,121,NA,Stool,SW1,,NA,3,Power Bead,S226,Stool,0
+S227,227,3,C,11,MouseExp1,Stool,2R,8.9,19,121,NA,Stool,SW1,,NA,3,Power Bead,S227,Stool,0
+S228,228,3,C,12,MouseExp1,Stool,1L,8.26,36,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S228,Stool,1
+S229,229,3,D,1,MouseExp1,Stool,B,8.26,36,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S229,Stool,1
+S230,230,3,D,2,MouseExp1,Stool,1R,8.26,36,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S230,Stool,1
+S231,231,3,D,3,MouseExp1,Stool,2L,8.26,36,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S231,Stool,1
+S232,232,3,D,4,MouseExp1,Stool,1R,8.26,36,115,NA,Small Intestine,B6,,NA,3,Power Bead,S232,Stool,1
+S233,233,3,D,5,MouseExp1,Stool,2L,8.26,36,121,NA,Stool,SW2,,NA,3,Power Bead,S233,Stool,1
+S234,234,3,D,6,MouseExp1,Stool,1R,8.26,36,121,NA,Stool,SW2,,NA,3,Power Bead,S234,Stool,1
+S235,235,3,D,7,MouseExp1,Stool,B,8.26,36,121,NA,Stool,SW2,,NA,3,Power Bead,S235,Stool,1
+S236,236,3,D,8,MouseExp1,Stool,1L,8.26,36,121,NA,Stool,SW2,,NA,3,Power Bead,S236,Stool,1
+S237,237,3,D,9,MouseExp1,Stool,1R,8.26,36,121,NA,Stool,B6,,NA,3,Power Bead,S237,Stool,1
+S238,238,3,D,10,MouseExp1,Cecum,1L,8.26,36,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S238,Cecum,1
+S239,239,3,D,11,MouseExp1,Cecum,B,8.26,36,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S239,Cecum,1
+S240,240,3,D,12,MouseExp1,Cecum,1R,8.26,36,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S240,Cecum,1
+S241,241,3,E,1,MouseExp1,Cecum,2L,8.26,36,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S241,Cecum,1
+S242,242,3,E,2,MouseExp1,Cecum,1R,8.26,36,115,NA,Small Intestine,B6,,NA,3,Power Bead,S242,Cecum,1
+S243,243,3,E,3,MouseExp1,Cecum,2L,8.26,36,121,NA,Stool,SW2,,NA,3,Power Bead,S243,Cecum,1
+S244,244,3,E,4,MouseExp1,Cecum,1R,8.26,36,121,NA,Stool,SW2,,NA,3,Power Bead,S244,Cecum,1
+S245,245,3,E,5,MouseExp1,Cecum,B,8.26,36,121,NA,Stool,SW2,,NA,3,Power Bead,S245,Cecum,1
+S246,246,3,E,6,MouseExp1,Cecum,1L,8.26,36,121,NA,Stool,SW2,,NA,3,Power Bead,S246,Cecum,1
+S247,247,3,E,7,MouseExp1,Cecum,1R,8.26,36,121,NA,Stool,B6,,NA,3,Power Bead,S247,Cecum,1
+S248,248,3,E,8,MouseExp1,Proximal,1L,8.26,36,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S248,Small Intestine,1
+S249,249,3,E,9,MouseExp1,Proximal,B,8.26,36,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S249,Small Intestine,1
+S25,25,1,C,1,MouseExp1,Stool,1L,7.23,2,121,NA,Stool,SW1,,NA,1,Power Bead,S25,Stool,0
+S250,250,3,E,10,MouseExp1,Proximal,1R,8.26,36,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S250,Small Intestine,1
+S251,251,3,E,11,MouseExp1,Proximal,2L,8.26,36,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S251,Small Intestine,1
+S252,252,3,E,12,MouseExp1,Proximal,1R,8.26,36,115,NA,Small Intestine,B6,,NA,3,Power Bead,S252,Small Intestine,1
+S253,253,3,F,1,MouseExp1,Mid,1L,8.26,36,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S253,Small Intestine,1
+S254,254,3,F,2,MouseExp1,Mid,B,8.26,36,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S254,Small Intestine,1
+S255,255,3,F,3,MouseExp1,Mid,1R,8.26,36,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S255,Small Intestine,1
+S256,256,3,F,4,MouseExp1,Mid,2L,8.26,36,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S256,Small Intestine,1
+S257,257,3,F,5,MouseExp1,Mid,1R,8.26,36,115,NA,Small Intestine,B6,,NA,3,Power Bead,S257,Small Intestine,1
+S258,258,3,F,6,MouseExp1,Distal,1L,8.26,36,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S258,Small Intestine,1
+S259,259,3,F,7,MouseExp1,Distal,B,8.26,36,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S259,Small Intestine,1
+S26,26,1,C,2,MouseExp1,Stool,2L,7.23,2,115,NA,Small Intestine,SW2,,NA,1,Power Bead,S26,Stool,0
+S260,260,3,F,8,MouseExp1,Distal,1R,8.26,36,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S260,Small Intestine,1
+S261,261,3,F,9,MouseExp1,Distal,2L,8.26,36,115,NA,Small Intestine,SW2,,NA,3,Power Bead,S261,Small Intestine,1
+S262,262,3,F,10,MouseExp1,Distal,1R,8.26,36,115,NA,Small Intestine,B6,,NA,3,Power Bead,S262,Small Intestine,1
+S265,265,3,G,1,MouseExp1,Proximal,1R,8.26,36,121,NA,Stool,B6,,NA,3,Power Bead,S265,Small Intestine,1
+S266,266,3,G,2,MouseExp1,Proximal,1L,8.26,36,121,NA,Stool,SW2,,NA,3,Power Bead,S266,Small Intestine,1
+S267,267,3,G,3,MouseExp1,Proximal,B,8.26,36,121,NA,Stool,SW2,,NA,3,Power Bead,S267,Small Intestine,1
+S268,268,3,G,4,MouseExp1,Mid,2L.1R,8.26,36,121,NA,Stool,SW2,,NA,3,Power Bead,S268,Small Intestine,1
+S269,269,3,G,5,MouseExp1,Mid,2L.1R,8.26,36,121,NA,Stool,SW2,,NA,3,Power Bead,S269,Small Intestine,1
+S27,27,1,C,3,MouseExp1,Stool,B,7.23,2,115,NA,Small Intestine,SW2,,NA,1,Power Bead,S27,Stool,0
+S270,270,3,G,6,MouseExp1,Mid,1R,8.26,36,121,NA,Stool,B6,,NA,3,Power Bead,S270,Small Intestine,1
+S271,271,3,G,7,MouseExp1,Mid,1L,8.26,36,121,NA,Stool,SW2,,NA,3,Power Bead,S271,Small Intestine,1
+S272,272,3,G,8,MouseExp1,Mid,B,8.26,36,121,NA,Stool,SW2,,NA,3,Power Bead,S272,Small Intestine,1
+S273,273,3,G,9,MouseExp1,Distal,2L.1R,8.26,36,121,NA,Stool,SW2,,NA,3,Power Bead,S273,Small Intestine,1
+S274,274,3,G,10,MouseExp1,Distal,2L.1R,8.26,36,121,NA,Stool,SW2,,NA,3,Power Bead,S274,Small Intestine,1
+S275,275,3,G,11,MouseExp1,Distal,1R,8.26,36,121,NA,Stool,B6,,NA,3,Power Bead,S275,Small Intestine,1
+S276,276,3,G,12,MouseExp1,Distal,1L,8.26,36,121,NA,Stool,SW2,,NA,3,Power Bead,S276,Small Intestine,1
+S277,277,3,H,1,MouseExp1,Distal,B,8.26,36,121,NA,Stool,SW2,,NA,3,Power Bead,S277,Small Intestine,1
+S28,28,1,C,4,MouseExp1,Stool,1L,7.23,2,115,NA,Small Intestine,SW2,Runny,NA,1,Power Bead,S28,Stool,0
+S29,29,1,C,5,MouseExp1,Stool,1R,7.23,2,115,NA,Small Intestine,SW2,,NA,1,Power Bead,S29,Stool,0
+S3,3,1,A,3,MouseExp1,Stool,2L,7.22,1,115,NA,Small Intestine,SW2,,NA,1,Power Bead,S3,Stool,0
+S30,30,1,C,6,MouseExp1,Stool,1R,7.23,2,121,NA,Stool,SW2,,NA,1,Power Bead,S30,Stool,0
+S31,31,1,C,7,MouseExp1,Stool,B,7.23,2,121,NA,Stool,SW2,,NA,1,Power Bead,S31,Stool,0
+S318,318,4,C,6,Cultures,NA,,7.21,0,NA,NA,Stool,,,200,4,Power Bead,S318,Stool Community,0
+S319,319,4,C,7,Cultures,NA,,7.21,0,NA,NA,Small Intestine,,,200,4,Power Bead,S319,SI Community,0
+S320,320,4,C,8,Cultures,NA,,8.23,0,NA,NA,Stool,,,200,4,Power Bead,S320,Stool Community,0
+S321,321,4,C,9,Cultures,NA,,8.23,0,NA,NA,Small Intestine,,,200,4,Power Bead,S321,SI Community,0
+S322,322,4,C,10,MouseExp1,Proximal,1L,9.8,49,121,126,Stool2SI,B6,1,NA,4,Power Bead,S322,Small Intestine,1
+S323,323,4,C,11,MouseExp1,Mid,1L,9.8,49,121,126,Stool2SI,B6,1,NA,4,Power Bead,S323,Small Intestine,1
+S324,324,4,C,12,MouseExp1,Distal,1L,9.8,49,121,126,Stool2SI,B6,1,NA,4,Power Bead,S324,Small Intestine,1
+S325,325,4,D,1,MouseExp1,Proximal,B,9.8,49,121,126,Stool2SI,SW1,3,NA,4,Power Bead,S325,Small Intestine,1
+S326,326,4,D,2,MouseExp1,Mid,B,9.8,49,121,126,Stool2SI,SW1,3,NA,4,Power Bead,S326,Small Intestine,1
+S327,327,4,D,3,MouseExp1,Distal,B,9.8,49,121,126,Stool2SI,SW1,3,NA,4,Power Bead,S327,Small Intestine,1
+S328,328,4,D,4,MouseExp1,Proximal,1L,9.8,49,121,126,Stool2SI,SW1,2,NA,4,Power Bead,S328,Small Intestine,1
+S329,329,4,D,5,MouseExp1,Mid,1L,9.8,49,121,126,Stool2SI,SW1,2,NA,4,Power Bead,S329,Small Intestine,1
+S330,330,4,D,6,MouseExp1,Distal,1L,9.8,49,121,126,Stool2SI,SW1,2,NA,4,Power Bead,S330,Small Intestine,1
+S331,331,4,D,7,MouseExp1,Proximal,1R,9.8,49,121,126,Stool2SI,SW1,5,NA,4,Power Bead,S331,Small Intestine,1
+S332,332,4,D,8,MouseExp1,Mid,1R,9.8,49,121,126,Stool2SI,SW1,5,NA,4,Power Bead,S332,Small Intestine,1
+S333,333,4,D,9,MouseExp1,Distal,1R,9.8,49,121,126,Stool2SI,SW1,5,NA,4,Power Bead,S333,Small Intestine,1
+S334,334,4,D,10,MouseExp1,Proximal,2R,9.8,49,121,126,Stool2SI,SW1,4,NA,4,Power Bead,S334,Small Intestine,1
+S335,335,4,D,11,MouseExp1,Mid,2R,9.8,49,121,126,Stool2SI,SW1,4,NA,4,Power Bead,S335,Small Intestine,1
+S336,336,4,D,12,MouseExp1,Distal,2R,9.8,49,121,126,Stool2SI,SW1,4,NA,4,Power Bead,S336,Small Intestine,1
+S337,337,4,E,1,MouseExp1,Proximal,1L,9.8,49,115,126,SI2Stool,B6,6,NA,4,Power Bead,S337,Small Intestine,1
+S338,338,4,E,2,MouseExp1,Mid,1L,9.8,49,115,126,SI2Stool,B6,6,NA,4,Power Bead,S338,Small Intestine,1
+S339,339,4,E,3,MouseExp1,Distal,1L,9.8,49,115,126,SI2Stool,B6,6,NA,4,Power Bead,S339,Small Intestine,1
+S340,340,4,E,4,MouseExp1,Proximal,B,9.8,49,115,126,SI2Stool,SW1,8,NA,4,Power Bead,S340,Small Intestine,1
+S341,341,4,E,5,MouseExp1,Mid,B,9.8,49,115,126,SI2Stool,SW1,8,NA,4,Power Bead,S341,Small Intestine,1
+S342,342,4,E,6,MouseExp1,Distal,B,9.8,49,115,126,SI2Stool,SW1,8,NA,4,Power Bead,S342,Small Intestine,1
+S343,343,4,E,7,MouseExp1,Proximal,1L,9.8,49,115,126,SI2Stool,SW1,7,NA,4,Power Bead,S343,Small Intestine,1
+S344,344,4,E,8,MouseExp1,Mid,1L,9.8,49,115,126,SI2Stool,SW1,7,NA,4,Power Bead,S344,Small Intestine,1
+S345,345,4,E,9,MouseExp1,Distal,1L,9.8,49,115,126,SI2Stool,SW1,7,NA,4,Power Bead,S345,Small Intestine,1
+S347,347,4,E,11,MouseExp1,Mid,1R,9.8,49,115,126,SI2Stool,SW1,10,NA,4,Power Bead,S347,Small Intestine,1
+S348,348,4,E,12,MouseExp1,Distal,1R,9.8,49,115,126,SI2Stool,SW1,10,NA,4,Power Bead,S348,Small Intestine,1
+S349,349,4,F,1,MouseExp1,Proximal,2R,9.8,49,115,126,SI2Stool,SW1,9,NA,4,Power Bead,S349,Small Intestine,1
+S350,350,4,F,2,MouseExp1,Mid,2R,9.8,49,115,126,SI2Stool,SW1,9,NA,4,Power Bead,S350,Small Intestine,1
+S351,351,4,F,3,MouseExp1,Distal,2R,9.8,49,115,126,SI2Stool,SW1,9,NA,4,Power Bead,S351,Small Intestine,1
+S37,37,1,D,1,MouseExp1,Stool,1L,7.23,2,115,NA,Small Intestine,B6,Tube said 7.22 but was in the section for 7.23 samples,NA,1,Power Bead,S37,Stool,0
+S38,38,1,D,2,MouseExp1,Stool,1R,7.23,2,115,NA,Small Intestine,SW1,,NA,1,Power Bead,S38,Stool,0
+S39,39,1,D,3,MouseExp1,Stool,B,7.26,5,121,NA,Stool,SW1,,NA,1,Power Bead,S39,Stool,0
+S4,4,1,A,4,MouseExp1,Stool,2R,7.22,1,115,NA,Small Intestine,SW1,,NA,1,Power Bead,S4,Stool,0
+S40,40,1,D,4,MouseExp1,Stool,2R,7.26,5,121,NA,Stool,SW1,,NA,1,Power Bead,S40,Stool,0
+S41,41,1,D,5,MouseExp1,Stool,1L,7.26,5,121,NA,Stool,SW1,,NA,1,Power Bead,S41,Stool,0
+S42,42,1,D,6,MouseExp1,Stool,1L,7.26,5,121,NA,Stool,B6,,NA,1,Power Bead,S42,Stool,0
+S43,43,1,D,7,MouseExp1,Stool,1R,7.26,5,121,NA,Stool,SW1,,NA,1,Power Bead,S43,Stool,0
+S49,49,1,E,1,MouseExp1,Stool,B,7.26,5,121,NA,Stool,SW2,,NA,1,Power Bead,S49,Stool,0
+S5,5,1,A,5,MouseExp1,Stool,B,7.22,1,115,NA,Small Intestine,SW2,,NA,1,Power Bead,S5,Stool,0
+S50,50,1,E,2,MouseExp1,Stool,2L,7.26,5,121,NA,Stool,SW2,,NA,1,Power Bead,S50,Stool,0
+S51,51,1,E,3,MouseExp1,Stool,1L,7.26,5,121,NA,Stool,SW2,,NA,1,Power Bead,S51,Stool,0
+S52,52,1,E,4,MouseExp1,Stool,1R,7.26,5,121,NA,Stool,SW2,,NA,1,Power Bead,S52,Stool,0
+S53,53,1,E,5,MouseExp1,Stool,1R,7.26,5,121,NA,Stool,B6,,NA,1,Power Bead,S53,Stool,0
+S54,54,1,E,6,MouseExp1,Stool,1R,7.26,5,115,NA,Small Intestine,SW1,,NA,1,Power Bead,S54,Stool,0
+S55,55,1,E,7,MouseExp1,Stool,2L,7.26,5,115,NA,Small Intestine,SW2,,NA,1,Power Bead,S55,Stool,0
+S6,6,1,A,6,MouseExp1,Stool,2R,7.22,1,121,NA,Stool,SW1,,NA,1,Power Bead,S6,Stool,0
+S61,61,1,F,1,MouseExp1,Stool,B,7.27,6,115,NA,Small Intestine,SW1,,NA,1,Power Bead,S61,Stool,0
+S62,62,1,F,2,MouseExp1,Stool,1L,7.27,6,115,NA,Small Intestine,B6,,NA,1,Power Bead,S62,Stool,0
+S63,63,1,F,3,MouseExp1,Stool,1R,7.27,6,115,NA,Small Intestine,B6,bedding,NA,1,Power Bead,S63,Stool,0
+S64,64,1,F,4,MouseExp1,Stool,1R,7.27,6,121,NA,Stool,B6,,NA,1,Power Bead,S64,Stool,0
+S65,65,1,F,5,MouseExp1,Stool,1R,7.27,6,121,NA,Stool,SW2,,NA,1,Power Bead,S65,Stool,0
+S66,66,1,F,6,MouseExp1,Stool,B,7.27,6,121,NA,Stool,SW2,bedding,NA,1,Power Bead,S66,Stool,0
+S67,67,1,F,7,MouseExp1,Stool,2R,7.27,6,121,NA,Stool,SW1,,NA,1,Power Bead,S67,Stool,0
+S7,7,1,A,7,MouseExp1,Stool,1L,7.22,1,121,NA,Stool,SW1,Runny,NA,1,Power Bead,S7,Stool,0
+S73,73,1,G,1,MouseExp1,Stool,1L,7.27,6,115,NA,Small Intestine,SW2,,NA,1,Power Bead,S73,Stool,0
+S74,74,1,G,2,MouseExp1,Stool,1R,7.27,6,121,NA,Stool,SW1,,NA,1,Power Bead,S74,Stool,0
+S75,75,1,G,3,MouseExp1,Stool,1L,7.27,6,121,NA,Stool,B6,,NA,1,Power Bead,S75,Stool,0
+S76,76,1,G,4,MouseExp1,Stool,B,7.27,6,121,NA,Stool,SW1,not sure if this was somethong else but smelled super bad after i opened the lid until i closed the lid (also had a different lid),NA,1,Power Bead,S76,Stool,0
+S77,77,1,G,5,MouseExp1,Stool,2L,7.27,6,121,NA,Stool,SW2,,NA,1,Power Bead,S77,Stool,0
+S78,78,1,G,6,MouseExp1,Stool,1L,7.27,6,121,NA,Stool,SW1,,NA,1,Power Bead,S78,Stool,0
+S79,79,1,G,7,MouseExp1,Stool,B,8.2,12,115,NA,Small Intestine,SW1,where new plate starts,NA,1,Power Bead,S79,Stool,0
+S8,8,1,A,8,MouseExp1,Stool,1R,7.22,1,121,NA,Stool,SW2,,NA,1,Power Bead,S8,Stool,0
+S85,85,1,H,1,MouseExp1,Stool,1R,8.2,12,121,NA,Stool,SW2,,NA,1,Power Bead,S85,Stool,0
+S86,86,1,H,2,MouseExp1,Stool,1L,8.2,12,121,NA,Stool,SW1,,NA,1,Power Bead,S86,Stool,0
+S87,87,1,H,3,MouseExp1,Stool,2L,8.2,12,121,NA,Stool,SW2,,NA,1,Power Bead,S87,Stool,0
+S88,88,1,H,4,MouseExp1,Stool,B,8.2,12,121,NA,Stool,SW1,,NA,1,Power Bead,S88,Stool,0
+S89,89,1,H,5,MouseExp1,Stool,1R,8.2,12,121,NA,Stool,B6,,NA,1,Power Bead,S89,Stool,0
+S90,90,1,H,6,MouseExp1,Stool,2L,8.2,12,115,NA,Small Intestine,SW2,,NA,1,Power Bead,S90,Stool,0
+S91,91,1,H,7,MouseExp1,Stool,1R,8.2,12,115,NA,Small Intestine,B6,,NA,1,Power Bead,S91,Stool,0
+S92,92,1,H,8,MouseExp1,Stool,1L,8.2,12,115,NA,Small Intestine,SW2,,NA,1,Power Bead,S92,Stool,0
+S97,97,2,A,1,MouseExp1,Stool,B,8.2,12,121,NA,Stool,SW2,,NA,2,Power Bead,S97,Stool,0
+S98,98,2,A,2,MouseExp1,Stool,1R,8.2,12,121,NA,Stool,SW1,,NA,2,Power Bead,S98,Stool,0
+S99,99,2,A,3,MouseExp1,Stool,2R,7.28,7,115,NA,Small Intestine,SW1,,NA,2,Power Bead,S99,Stool,0

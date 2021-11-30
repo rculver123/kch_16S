@@ -1,0 +1,39 @@
+############################################
+
+Step 1: Log in to your Sherlock account, navigate to $SCRATCH, and make a folder for your new project
+
+
+If you've never run 16S on Sherlock ebefore:
+Add packages from R to your path (you only have to do this once):
+cat << EOF > $HOME/.Renviron
+R_LIBS=$GROUP_HOME/modules/Rpackages
+EOF
+
+
+############################################
+Step 2: Download your data from the sequencing facility into your new project folder
+
+1) Only have to do this if you've never done it before - Install AWS CLI and make it part of path
+
+ml python/3.6.1
+pip3 install awscli  --upgrade –user
+export PATH=~/.local/bin:$PATH
+
+2) Copy the .sh file biohub sends as an email attachment and make a copy in the folder you want to download (you can copy and paste the BioHub emailed file into Sherlock by using th command : nano the_attached_file.sh, then pasting it in.
+
+3) Run the file:
+bash the_attached_file.sh
+
+############################################
+Step 3: Run DADA2 pipeline 
+
+1) Create a bash script
+nano my_bash_script.sh
+(Copy and paste the text of bash_script.sh & CHANGE TO YOUR EMAIL ADDRESS)
+
+2) Create the dada2 R script
+nano dada2.R
+(Copy and paste the text of dada2.R & CHANGE THE FOLDER WHERE THE SEQ FILES ARE ON LINE 4)
+
+5) Submit to the server for analysis by typing:
+sbatch my_bash_script.sh
