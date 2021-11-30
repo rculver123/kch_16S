@@ -15,6 +15,9 @@ library(phyloseq)
 library(dplyr)
 library(ggplot2)
 
+# Load in your phylloseq object
+ps <- readRDS(paste0(clean_data_dir,'filtered_phlyoseq.RDS'))     
+
 # First I'm going to subset the data that I want to plot (df2plot = data frame to plot)
 df2plot <- subset_samples(ps, finalDays %in% 1) %>% # choosing my final day samples
     filter_taxa(., function(x) sum(x > 5) > (0.05*length(x)), TRUE) %>% # I've decided to filter out low abundance singletons here

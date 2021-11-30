@@ -19,10 +19,10 @@ clean_data_dir <- 'clean_data'
 
 ps.relabs.raw <- transform_sample_counts(ps.filt, function(x) x / sum(x))                          
 
-# You can additionalyll try to filter out random singletons by doing something like one of these two options:
+# You can try to filter out random singletons by doing something like one of these two options:
 # PS: you'll need library(dplyr) to use the %>% function
 
-# Filter out low abundance singletons
+# Filter out low prevalencesingletons
 ps.relabs <- filter_taxa(ps.filt, function(x) sum(x > 5) > (0.05*length(x)), TRUE) %>% #Must have 5 reads in 5% of samples
     transform_sample_counts(., function(x) x / sum(x)) 
 

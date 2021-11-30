@@ -3,6 +3,10 @@
 # so here are ways of subsetting data
 ############################################
 
+############################################
+# Subset by metadata
+############################################
+
 # the following column names are based on the sample data, but you should
 # change it to whatever your column names are/ catgories you want to subset by
 
@@ -16,4 +20,13 @@ filter_taxa(., function(x) sum(x) >0, TRUE) # Get rid of taxa that are now 0
 
 # Using 'OR' operator
 final.days<- subset_samples(ps, (Day %in% '36' & Community %in% c('Small Intestine','Stool')) | Day %in% c('0','49')) %>%
+filter_taxa(., function(x) sum(x) >0, TRUE) # Get rid of taxa that are now 0
+
+
+############################################
+# Subset by taxa
+############################################
+
+# Using 'OR' operator
+final.days<- subset_taxa(ps, Phylum %in% 'Proteobacteria') %>%
 filter_taxa(., function(x) sum(x) >0, TRUE) # Get rid of taxa that are now 0
