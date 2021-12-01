@@ -1,7 +1,7 @@
 library(dada2); packageVersion("dada2")
 
 # Edit the following lines
-per_sample_folder_fp <- "path" #THIS SHOULD BE THE FOLDER CONTAINING THE FWD AND REV_READS FOLDERS
+per_sample_folder_fp <- "/scratch/groups/kchuang/rculver" #THIS SHOULD BE THE FOLDER CONTAINING THE FWD AND REV_READS FOLDERS
 
 
 fwd_path <- file.path(per_sample_folder_fp,"fwd_reads/samples")
@@ -13,11 +13,9 @@ filt_pathR <- file.path(rev_path, "filtered")
 fnFs <- sort(list.files(fwd_path, pattern="fastq"))
 fnRs <- sort(list.files(rev_path, pattern="fastq"))
 
-
 filtFs <- file.path(filt_pathF, fnFs)
 filtRs <- file.path(filt_pathR, fnRs)
 
-if(length(fnFs) != length(fnRs)) stop("Forward and reverse files do not match.")
 out <- filterAndTrim(fwd = file.path(fwd_path, fnFs), filt =filtFs, rev = file.path(rev_path, fnRs), filt.rev =filtRs,
                       truncLen = c(250, 180),
                       trimLeft = c(2, 2),
@@ -107,13 +105,15 @@ saveRDS(taxa, "taxa.rds")
 
 ########### Make Tree
 
-library (DECIPHER)
+#library(DECIPHER)
 library(phangorn)
 library(phyloseq)
+library(msa)
 
 seqs <- getSequences(seqtab.nochim)
 names(seqs) <- seqs # This propagates to the tip labels of the tree
-alignment <- AlignSeqs(DNAStringSet(seqs), anchor=NA,verbose=FALSE)
+#alignment <- AlignSeqs(DNAStringSet(seqs), anchor=NA,verbose=FALSE)
+alignment <- msa(seqs, method="ClustalW", type="dna", order="input")
 
 phangAlign <- phyDat(as(alignment, "matrix"), type="DNA")
 dm <- dist.ml(phangAlign)
