@@ -97,7 +97,7 @@ taxa <- assignTaxonomy(seqtab.nochim, "/home/groups/kchuang/16S_version_Becca/si
 #make species level assginments based on EXACT MATCHING between ASVs and reference strains
 taxa <- addSpecies(taxa, "/home/groups/kchuang/16S_version_Becca/silva_species_assignment_v132.fa")
 
-saveRDS(taxa, "taxa.rds")
+saveRDS(taxa, "taxa.RDS")
 
 
 
@@ -110,12 +110,16 @@ library(phangorn)
 library(phyloseq)
 library(msa)
 
+seqtab.nochim <- readRDS('seqtab.nochim.RDS')
+
 seqs <- getSequences(seqtab.nochim)
 names(seqs) <- seqs # This propagates to the tip labels of the tree
 #alignment <- AlignSeqs(DNAStringSet(seqs), anchor=NA,verbose=FALSE)
 alignment <- msa(seqs, method="ClustalW", type="dna", order="input")
 
-phangAlign <- phyDat(as(alignment, "matrix"), type="DNA")
+#phangAlign <- phyDat(as(alignment, "matrix"), type="DNA")
+phangAlign <- as.phyDat(alignment, type="DNA", names=getSequence(seqtab.nochim))
+
 dm <- dist.ml(phangAlign)
 treeNJ <- NJ(dm) # Note, tip order != sequence order
 fit = pml(treeNJ, data=phangAlign)
