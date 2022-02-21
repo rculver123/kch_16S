@@ -7,7 +7,7 @@
 # Load in data
 ############################################
 
-# I make a folder called figues, then another follder within it called barplots where I'm going to save all my barplots
+# I make a folder called figues, then another follder within it called ordinations where I'm going to save all my ordinations
 ord_dir <- 'figures/ordinations'
 
 # Load your libraries!

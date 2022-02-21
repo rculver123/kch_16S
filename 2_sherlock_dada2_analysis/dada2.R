@@ -1,7 +1,7 @@
 library(dada2); packageVersion("dada2")
 
 # Edit the following lines
-per_sample_folder_fp <- "/scratch/groups/kchuang/rculver" #THIS SHOULD BE THE FOLDER CONTAINING THE FWD AND REV_READS FOLDERS
+per_sample_folder_fp <- "/scratch/users/rculver/211221/ba_slamo_Screen" #THIS SHOULD BE THE FOLDER CONTAINING THE FWD AND REV_READS FOLDERS
 
 
 fwd_path <- file.path(per_sample_folder_fp,"fwd_reads/samples")
